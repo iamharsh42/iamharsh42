@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey there, I'm Harsh, a full-stack developer from India.<br>🧩 I love solving problems on LeetCode.<br>🌐 I am passionate about Web3 technologies.<br>
+🚀 Hey there, I'm Harsh, a full-stack developer from India.<br>🧩 I love solving problems on LeetCode.<br>🌐 I'm passionate about Web3 technologies.<br>
 
 
 ## 🌐 Socials:
