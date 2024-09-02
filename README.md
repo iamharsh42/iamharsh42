@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently working on multiple MERN Stack projects.<br>🧩 Love solving problems on LeetCode.<br>🌐 Passionate about Web3 technologies.<br>
+🚀 Hey I'm Harsh, a full-stack developer from India.<br>🧩 I love solving problems on LeetCode.<br>🌐 I am passionate about Web3 technologies.<br>
 
 
 ## 🌐 Socials:
